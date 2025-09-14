@@ -1,2 +1,2 @@
-from .datasets import get_dataloaders
-__all__ = ["get_dataloaders"]
+from .datasets import get_transforms
+__all__ = ["get_transforms"]
