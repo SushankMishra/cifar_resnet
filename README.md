@@ -15,8 +15,3 @@ Supports:
 - **Learning Rate Finder**: Automatically suggest best LR range.
 - **One Cycle Policy**: Efficient training schedule.
 ---
-
-Usage
-
-Training
-python -m cifar10_trainer.main --epochs 24 --batch-size 128 --lr-finder
